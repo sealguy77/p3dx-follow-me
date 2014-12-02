@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "p2os_tutorial")
+set(p2os_tutorial_MAINTAINER "ecejames01 <ecejames01@todo.todo>")
+set(p2os_tutorial_DEPRECATED "")
+set(p2os_tutorial_VERSION "0.0.0")
+set(p2os_tutorial_BUILD_DEPENDS "geometry_msgs" "nav_msgs" "roscpp")
+set(p2os_tutorial_RUN_DEPENDS "geometry_msgs" "nav_msgs" "roscpp")
+set(p2os_tutorial_BUILDTOOL_DEPENDS "catkin")
